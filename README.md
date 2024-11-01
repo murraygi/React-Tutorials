@@ -1,2 +1,2 @@
 # ReactSandbox
-React Projects created with CodeSandbox
+React Tutorials and mini projects.
